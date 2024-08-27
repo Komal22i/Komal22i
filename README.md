@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=komal22i" alt="komal22i" /></a> </p>
 
-- 💬 Ask me about **ReactJS, NextJS, HTML, CSS, BootStrap, Tailwind CSS**
+- 💬 Ask me about **ReactJS, NextJS, HTML, CSS, BootStrap, Tailwind CSS,React Native,Node Js,Express**
 
 - 📫 How to reach me **komalkaushik127@gmail.com**
 
