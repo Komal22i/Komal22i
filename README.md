@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ReactJS, NextJS, HTML, CSS, BootStrap, Tailwind CSS**
 
-- 📫 How to reach me **komal@xploitwizer.com**
+- 📫 How to reach me **komalkaushik127@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
